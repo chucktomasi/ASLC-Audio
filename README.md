@@ -86,15 +86,16 @@ Plan to arrive 20-30 minutes before service begins to ensure everything is set u
 
 1.	As the prelude fades out, just before the Pastor speaks, do the following simultaneously:
 
-    * Hit **Record** on Audacity.
+    1. Turn on all sanctuary lights. On the LCD wall panel next to the PC monitor, click **ALL ON**.
 
-        ![](images/audacity-record-button.png)
-
-    * Turn off the projector.
+    1. Turn off the projector.
 
         Exception: Use the **PIC** button (top center) to simply "blank" the projector if you plan to use it for a Mission Minute or other presentation. This eliminates the "warming up" step of the projector if needed again during the service. You can then power it down at the end.
 
-    * Turn on all sanctuary lights. On the LCD wall panel next to the PC monitor, click **ALL ON**.
+    1. Hit **Record** on Audacity.
+
+        ![](images/audacity-record-button.png)
+
 
 1. Put the screen up during the entrance hymn. Doing this any other time is distracting as the noise of the screen motor is quite loud.
 
@@ -127,15 +128,15 @@ Plan to arrive 20-30 minutes before service begins to ensure everything is set u
 
 1. Use **File> Export** to save the entire file in WAV file to the Desktop.
 
-    ![](images/audacity-save-raw.png)
+    ![](images/audacity-export-sample.png)
 
-    Example filename: yyyy-mm-dd.wav
+    Example filename: **yyyy-mm-dd-SecondSundayOfAdvent-PrKristin-0900.wav**
 
 1. Leave the tags empty. (WAV files don't use tags.)
 
 1. Click **OK**.
 
-    ![](images/audacity-empty-tags.png)
+    ![](images/audacity-tag-template.png)
 
 1. After the WAV file has been saved to the desktop, start the **Levelator** application by clicking the icon shown below on the launch bar.
 
@@ -188,13 +189,13 @@ Example: 2016-01-10-BaptismOfOurLord-PrTerry-0900.mp3 (where 0900 is the 9:00AM 
 
 1. Tag the file like the following example:
 
-	* Artist Name: **Pr. Kristin Rice - All Saints Lutheran Church, Phoenix AZ**
-    * Track Title: **2nd Sunday of Christmas - *Sermon Title***
+	* Artist Name: **Pr. Kristin Rice - All Saints Lutheran Church**
+    * Track Title: **2nd Sunday of Advent - Postcards from the Holy Way***
     * Album Title: All Saints Lutheran Church
-    * Year: 2020
-    * Comments: 2020-01-03
+    * Year: 2019
+    * Comments: 2019-12-15
 
-    ![](images/audacity-tags.png)
+    ![](images/audacity-tag-example.png)
 
 1. Click **OK**.
 
@@ -204,23 +205,23 @@ Example: 2016-01-10-BaptismOfOurLord-PrTerry-0900.mp3 (where 0900 is the 9:00AM 
  
     ![](images/chrome-launch.png)
 
-1. The default web page is the All Saints Lutheran Church home page. Navigate to https://allsaintsphoenix.org/login, or click the **Login** shortcut on the Chrome shortcut bar.
+1. The default web page is the All Saints Lutheran Church home page. Click the **Login** button on the bookmarks bar or navigate to the [Login](https://allsaintsphoenix.org/login) page.
 
-    ![](images/chrome-login-url.png)
+    ![](images/chrome-bookmarks-login.png)
 
 1. Use your assigned login and password and click **LOGIN>>**. If you don't have a login, contact the Volunteer Organizer (Donald Wade).
 
     ![](images/chrome-login-credentials.png)
 
-1. Navigate to https://allsaintsphoenix.org/index.cfm/PageID/1050 (or click the **Staging** link on the Chrome shortcut bar).
+1. Click the **Staging** button on the shortcut bar or navigate to the [Staging](https://allsaintsphoenix.org/index.cfm/PageID/1050) page.
 
-    ![](images/chrome-staging-url.png)
+    ![](images/chrome-bookmarks-staging.png)
 
     The screen should now look like this:
 
     ![](images/chrome-staging-page.png)
 
-1. On the website’s top menu bar, navigate to **Add Content> File** Box.
+1. On the website’s top menu bar, navigate to **Add Content> File Box**.
 
     ![](images/chrome-file-box.png)
 
@@ -234,27 +235,33 @@ Example: 2016-01-10-BaptismOfOurLord-PrTerry-0900.mp3 (where 0900 is the 9:00AM 
 
     ![](images/chrome-upload-save.png)
 
-1. When the upload is complete, navigate to **https://allsaintsphoenix.org/index.cfm/PageID/1051** (or click the **Sermons** shortcut on the Chrome shortcut bar).
+1. When the upload is complete, click the **Sermons** button on the shortcut bar or navigate to the [Sermons](https://allsaintsphoenix.org/index.cfm/PageID/1051) page.
 
-    ![](images/chrome-sermon-page.png)
+    ![](images/chrome-bookmarks-sermons.png)
 
-    > On the first Sunday of each month, create a new section for that month by copying a previous one using the "double box" icon". Sort the sections using a the sort function so the new section shows at the top of the monthly section list. (New sections are placed at the end of the section.)  Use the “pencil” icon to update the section name to the proper month.
+    Click the pencil icon for the month you wish to edit.
 
+   > On the first Sunday of each month, create a new section for that month by copying a previous one using the "double box" icon". Sort the sections using a the sort function so the new section shows at the top of the monthly section list. (New sections are placed at the end of the section.)  Use the “pencil” icon to update the section name to the proper month.
+
+   ![](images/sermon-edit-month.gif)
+  
 1. Place the cursor in the table of weekly sermons.
 
 1. Select **Table> Row> Copy Row** from the editor menu to make a copy of the current row.
 
-    ![](images/chrome-copy-row.png)
+    ![](images/sermon-copy-row.gif)
  
 1. Select **Table> Row> Paste Row Before** from the editor menu to paste the new row before the existing one.
 
-    ![](images/chrome-paste-row-before.png)
+    ![](images/sermon-insert-row-before.gif)
  
-1. Update the **Date** and **Pastor** information in the right column.
+1. Update the Date, Pastor, Week, and Title information in the right column.
 
 1. Click the **Listen Now!** link.
 
 1. Click the **chain** icon to edit the link.
+
+    ![](2019-12-16-17-03-07.png)
 
 1. Update the **Url** field to the filename uploaded from the File Box and click **OK**.
 
